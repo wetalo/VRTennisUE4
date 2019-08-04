@@ -1,0 +1,1467 @@
+﻿Log file open, 08/03/19 07:39:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VRProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.259108
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 770
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Wetalo -epicuserid=af60cd51aa324628919b29e486e88f1f -epiclocale=en-US
+LogInit: Base Directory: D:/Epic/Installations/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Engine.ini]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Engine.ini]
+[2019.08.03-11.39.11:222][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Engine.ini]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.03-11.39.11:222][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Engine.ini]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.03-11.39.11:223][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Engine.ini]
+[2019.08.03-11.39.11:223][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Engine.ini]
+[2019.08.03-11.39.11:225][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.03-11.39.11:225][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.03-11.39.11:226][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.03-11.39.11:226][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.03-11.39.11:241][  0]LogHAL: Display: Platform has ~ 16 GB [17120841728 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.03-11.39.11:241][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.03-11.39.11:241][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.03-11.39.11:241][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Scalability.ini]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.03-11.39.11:242][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Config/Windows/Engine.ini]
+[2019.08.03-11.39.11:242][  0]LogInit: Computer: DESKTOP-AUG5PK7
+[2019.08.03-11.39.11:242][  0]LogInit: User: Swieca
+[2019.08.03-11.39.11:242][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.03-11.39.11:242][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.03-11.39.11:242][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.08.03-11.39.11:242][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.03-11.39.11:242][  0]LogMemory: Process Physical Memory: 102.77 MB used, 102.77 MB peak
+[2019.08.03-11.39.11:242][  0]LogMemory: Process Virtual Memory: 95.06 MB used, 95.06 MB peak
+[2019.08.03-11.39.11:242][  0]LogMemory: Physical Memory: 8193.58 MB used,  8134.13 MB free, 16327.71 MB total
+[2019.08.03-11.39.11:242][  0]LogMemory: Virtual Memory: 4681.99 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.08.03-11.39.11:254][  0]LogInit: Using OS detected language (en-US).
+[2019.08.03-11.39.11:254][  0]LogInit: Using OS detected locale (en-US).
+[2019.08.03-11.39.11:255][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.08.03-11.39.11:381][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.03-11.39.11:411][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.03-11.39.11:411][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.03-11.39.11:535][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.03-11.39.11:582][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 770' (Feature Level 11_0)
+[2019.08.03-11.39.11:583][  0]LogD3D11RHI:       2007/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.03-11.39.11:584][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.03-11.39.11:584][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.03-11.39.11:584][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.03-11.39.11:589][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.03-11.39.11:590][  0]LogD3D11RHI:     GPU DeviceId: 0x1184 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.03-11.39.11:590][  0]LogWindows: EnumDisplayDevices:
+[2019.08.03-11.39.11:590][  0]LogWindows:    0. 'NVIDIA GeForce GTX 770' (P:1 D:1)
+[2019.08.03-11.39.11:590][  0]LogWindows:    1. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2019.08.03-11.39.11:590][  0]LogWindows:    2. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2019.08.03-11.39.11:590][  0]LogWindows:    3. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2019.08.03-11.39.11:590][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.08.03-11.39.11:590][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 770
+[2019.08.03-11.39.11:590][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.08.03-11.39.11:590][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.08.03-11.39.11:590][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2019.08.03-11.39.11:623][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.03-11.39.11:626][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.03-11.39.11:626][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.03-11.39.11:626][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.03-11.39.11:640][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.08.03-11.39.11:928][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.03-11.39.11:939][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.03-11.39.11:950][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.03-11.39.11:960][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.03-11.39.11:970][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.03-11.39.11:980][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.03-11.39.11:990][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.03-11.39.12:000][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.03-11.39.12:005][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.03-11.39.12:068][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.03-11.39.12:069][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.03-11.39.12:111][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.03-11.39.12:111][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.03-11.39.12:129][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.03-11.39.12:129][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.03-11.39.12:139][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.03-11.39.12:149][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.03-11.39.12:158][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.03-11.39.12:168][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.03-11.39.12:202][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.03-11.39.12:202][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.03-11.39.12:203][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.03-11.39.12:207][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.03-11.39.12:234][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Intermediate/Shaders/WorkingDirectory/13044/).
+[2019.08.03-11.39.12:234][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Swieca/AppData/Local/Temp/UnrealShaderWorkingDir/EE15D125440315307D60E385B840A4B0/'.
+[2019.08.03-11.39.12:235][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.03-11.39.12:235][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.03-11.39.12:235][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.03-11.39.12:671][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.03-11.39.12:723][  0]LogDerivedDataCache: Loaded boot cache 0.05s 86MB C:/Users/Swieca/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.03-11.39.12:723][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Swieca/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.03-11.39.12:723][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.03-11.39.12:723][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.03-11.39.12:723][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.03-11.39.12:723][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.03-11.39.12:733][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.03-11.39.12:733][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.03-11.39.12:733][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.03-11.39.12:745][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Swieca/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.03-11.39.12:745][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.03-11.39.12:745][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.03-11.39.12:763][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.03-11.39.12:764][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.03-11.39.12:765][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.03-11.39.12:835][  0]LogAssetRegistry: FAssetRegistry took 0.0312 seconds to start up
+[2019.08.03-11.39.13:086][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.03-11.39.13:189][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.03-11.39.13:189][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.03-11.39.13:189][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.03-11.39.13:189][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.03-11.39.13:189][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.03-11.39.13:199][  0]LogNetVersion: VRProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2799263511)
+[2019.08.03-11.39.13:512][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.030052 seconds
+[2019.08.03-11.39.13:520][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.03-11.39.13:520][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.03-11.39.13:520][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.03-11.39.14:099][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.03-11.39.14:111][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.03-11.39.14:204][  0]SourceControl: Source control is disabled
+[2019.08.03-11.39.14:204][  0]SourceControl: Source control is disabled
+[2019.08.03-11.39.14:205][  0]SourceControl: Source control is disabled
+[2019.08.03-11.39.14:206][  0]SourceControl: Source control is disabled
+[2019.08.03-11.39.14:253][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.03-11.39.14:331][  0]LogOcInput: OculusInput pre-init called
+[2019.08.03-11.39.14:837][  0]LogEngine: Initializing Engine...
+[2019.08.03-11.39.14:837][  0]LogHMD: Oculus plugin initialized. Version: 4.22.3-7053642+++UE4+Release-4.22, OVRPlugin: 1.32.0
+[2019.08.03-11.39.14:838][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.03-11.39.15:009][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.03-11.39.15:017][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.03-11.39.15:042][  0]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.03-11.39.15:063][  0]LogInit: FAudioDevice initialized.
+[2019.08.03-11.39.15:064][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.03-11.39.15:147][  0]LogDerivedDataCache: Saved boot cache 0.08s 86MB C:/Users/Swieca/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.03-11.39.15:156][  0]LogInit: Texture streaming: Enabled
+[2019.08.03-11.39.15:165][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.03-11.39.15:178][  0]LogInit: Transaction tracking system initialized
+[2019.08.03-11.39.15:189][  0]BlueprintLog: New page: Editor Load
+[2019.08.03-11.39.15:235][  0]LocalizationService: Localization service is disabled
+[2019.08.03-11.39.15:451][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Content/' took 0.01s
+[2019.08.03-11.39.15:451][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.03-11.39.15:451][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.03-11.39.15:568][  0]SourceControl: Source control is disabled
+[2019.08.03-11.39.15:568][  0]Cmd: MAP LOAD FILE="../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.03-11.39.15:568][  0]LightingResults: New page: Lighting Build
+[2019.08.03-11.39.15:569][  0]MapCheck: New page: Map Check
+[2019.08.03-11.39.15:569][  0]LightingResults: New page: Lighting Build
+[2019.08.03-11.39.15:590][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.08.03-11.39.15:652][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.08.03-11.39.15:656][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.03-11.39.15:678][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.08.03-11.39.15:679][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.03-11.39.15:679][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2019.08.03-11.39.15:679][  0]LogFileHelpers: Loading map 'StartupMap' took 0.111
+[2019.08.03-11.39.15:766][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-11.39.15:772][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-11.39.15:778][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-11.39.15:783][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-11.39.15:787][  0]LogCollectionManager: Loaded 0 collections in 0.000755 seconds
+[2019.08.03-11.39.15:802][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Collections/' took 0.01s
+[2019.08.03-11.39.15:802][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Developers/Swieca/Collections/' took 0.00s
+[2019.08.03-11.39.15:802][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Collections/' took 0.00s
+[2019.08.03-11.39.15:802][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.08.03-11.39.15:811][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2732 classes and 659 folders.
+[2019.08.03-11.39.15:814][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.03-11.39.15:815][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:815][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:816][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:818][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:818][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:818][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:818][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:820][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:820][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:820][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:820][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:821][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:822][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.03-11.39.15:839][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.03-11.39.15:842][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.08.03-11.39.15:853][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.03-11.39.15:855][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.03-11.39.15:859][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.03-11.39.15:908][  0]LogRenderer: Reallocating scene render targets to support 1084x572 Format 26 NumSamples 1 (Frame:1).
+[2019.08.03-11.39.16:002][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.03-11.39.16:002][  0]LogLoad: (Engine Initialization) Total time: 6.04 seconds
+[2019.08.03-11.39.16:003][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.03-11.39.16:015][  0]LogOcInput: OculusInput is initialized
+[2019.08.03-11.39.16:033][  0]LogAssetRegistry: Asset discovery search completed in 3.2213 seconds
+[2019.08.03-11.39.16:035][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.03-11.39.16:035][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2019.08.03-11.39.16:036][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.03-11.39.16:072][  0]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.03-11.41.27:114][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-11.41.28:513][877]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.03-11.41.28:521][877]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprints/Waves/Wave_BluePrint.Wave_BluePrint
+[2019.08.03-11.41.28:710][877]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.08.03-11.41.29:373][877]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.03-11.41.29:418][878]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.03-11.42.13:682][174]LogSlate: Window 'Wave_BluePrint' being destroyed
+[2019.08.03-11.42.13:686][174]LogSlate: Window 'Wave_BluePrint' being destroyed
+[2019.08.03-11.42.16:635][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.08.03-11.42.16:647][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-11.42.16:647][519]LogHMD: Initializing OVRPlugin session
+[2019.08.03-11.42.16:737][519]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.08.03-11.42.16:750][519]PIE: New page: PIE session: StartupMap (Aug 3, 2019, 3:42:16 AM)
+[2019.08.03-11.42.16:769][519]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2019.08.03-11.42.16:774][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005367s)
+[2019.08.03-11.42.16:775][519]LogAIModule: Creating AISystem for world StartupMap
+[2019.08.03-11.42.16:775][519]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2019.08.03-11.42.16:775][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.006082s)
+[2019.08.03-11.42.16:804][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.08.03-11.42.16:892][519]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.03-11.42.16:903][519]LogInit: FAudioDevice initialized.
+[2019.08.03-11.42.16:909][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-11.42.16:981][519]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.03-11.42.16:981][519]LogLoad: Game class is 'GameModeBase'
+[2019.08.03-11.42.16:987][519]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2019.08.03-07.42.16
+[2019.08.03-11.42.16:987][519]LogWorld: Bringing up level for play took: 0.001215
+[2019.08.03-11.42.17:028][519]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.03-11.42.17:029][519]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.03-11.42.17:029][519]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.08.03-11.42.17:032][519]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0.248
+[2019.08.03-11.42.17:032][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.08.03-11.42.17:033][519]LogEngine: Changing dynamic resolution state.
+[2019.08.03-11.42.17:099][519]LogRenderer: Reallocating scene render targets to support 2656x1584 Format 26 NumSamples 1 (Frame:1).
+[2019.08.03-11.42.17:099][519]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.08.03-11.42.20:883][990]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.08.03-11.42.20:939][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-11.42.20:965][990]LogSlate: Window 'VRProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.03-11.42.20:992][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-11.42.20:993][990]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.08.03-11.42.21:056][990]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.08.03-11.42.21:067][991]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.08.03-11.42.21:067][991]LogEngine: Changing dynamic resolution state.
+[2019.08.03-11.42.25:790][482]LogLinker: Warning: Can't find file '/Game/Assets/Models/TennisRacket/Handle/Handle_Mat'
+[2019.08.03-11.42.25:790][482]LogLinker: Warning: Can't find file for asset '/Game/Assets/Models/TennisRacket/Handle/Handle_Mat' while loading NULL.
+[2019.08.03-11.42.25:792][482]LogLinker: Warning: Can't find file '/Game/Assets/Models/TennisRacket/Handle/Handle_Mat'
+[2019.08.03-11.42.25:792][482]LogLinker: Warning: Can't find file for asset '/Game/Assets/Models/TennisRacket/Handle/Handle_Mat' while loading NULL.
+[2019.08.03-11.42.25:794][482]LogLinker: Warning: Can't find file '/Game/Assets/Models/TennisRacket/Handle/Handle_Mat'
+[2019.08.03-11.42.25:794][482]LogLinker: Warning: Can't find file for asset '/Game/Assets/Models/TennisRacket/Handle/Handle_Mat' while loading NULL.
+[2019.08.03-11.42.25:794][482]LogLinker: Warning: Can't find file '/Game/Assets/Models/TennisRacket/Handle/Handle_Mat'
+[2019.08.03-11.42.25:794][482]LogLinker: Warning: Can't find file for asset '/Game/Assets/Models/TennisRacket/Handle/Handle_Mat' while loading NULL.
+[2019.08.03-11.42.25:794][482]LogLinker: Warning: Can't find file '/Game/Assets/Models/TennisRacket/Handle/Handle_Mat'
+[2019.08.03-11.42.25:794][482]LoadErrors: Failed to load /Game/Assets/Models/TennisRacket/Handle/Handle_Mat.Handle_Mat Referenced by Default__BP_Tennis_Racket_C
+[2019.08.03-11.42.25:794][482]LogLinker: Warning: Can't find file for asset '/Game/Assets/Models/TennisRacket/Handle/Handle_Mat' while loading NULL.
+[2019.08.03-11.42.25:934][482]LogAIModule: Creating AISystem for world TennisPractice
+[2019.08.03-11.42.25:940][482]LogAssetEditorManager: Opening Asset editor for World /Game/Assets/Levels/TennisPractice.TennisPractice
+[2019.08.03-11.42.25:981][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.08.03-11.42.25:982][482]Cmd: MAP LOAD FILE="../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Levels/TennisPractice.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.03-11.42.25:982][482]LightingResults: New page: Lighting Build
+[2019.08.03-11.42.25:982][482]LoadErrors: New page: Loading map: TennisPractice.umap
+[2019.08.03-11.42.25:983][482]MapCheck: New page: Map Check
+[2019.08.03-11.42.25:983][482]LightingResults: New page: Lighting Build
+[2019.08.03-11.42.26:011][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.08.03-11.42.26:014][482]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.03-11.42.26:039][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.08.03-11.42.26:058][482]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.03-11.42.26:058][482]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.067ms to complete.
+[2019.08.03-11.42.26:058][482]LogFileHelpers: Loading map 'TennisPractice' took 0.077
+[2019.08.03-11.42.30:072][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-11.42.30:205][968]LogTemp: Repeating last play command: VR Preview
+[2019.08.03-11.42.30:215][968]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.42.30:215][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-11.42.30:215][968]LogHMD: Initializing OVRPlugin session
+[2019.08.03-11.42.30:243][968]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.08.03-11.42.30:243][968]PIE: New page: PIE session: TennisPractice (Aug 3, 2019, 3:42:30 AM)
+[2019.08.03-11.42.30:243][968]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_TennisPractice
+[2019.08.03-11.42.30:246][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002777s)
+[2019.08.03-11.42.30:246][968]LogAIModule: Creating AISystem for world TennisPractice
+[2019.08.03-11.42.30:246][968]LogPlayLevel: PIE: World Init took: (0.000466s)
+[2019.08.03-11.42.30:246][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/TennisPractice.TennisPractice to /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice (0.003414s)
+[2019.08.03-11.42.30:272][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.08.03-11.42.30:287][968]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.03-11.42.30:297][968]LogInit: FAudioDevice initialized.
+[2019.08.03-11.42.30:305][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-11.42.30:363][968]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.03-11.42.30:363][968]LogLoad: Game class is 'GameModeBase'
+[2019.08.03-11.42.30:365][968]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice up for play (max tick rate 0) at 2019.08.03-07.42.30
+[2019.08.03-11.42.30:365][968]LogWorld: Bringing up level for play took: 0.000862
+[2019.08.03-11.42.30:435][968]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_TennisPractice -0.349
+[2019.08.03-11.42.30:435][968]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.42.30:435][968]LogEngine: Changing dynamic resolution state.
+[2019.08.03-11.42.30:474][968]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.08.03-11.42.30:517][970]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.08.03-11.43.24:273][860]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.43.24:329][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-11.43.24:353][860]LogSlate: Window 'VRProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.03-11.43.24:382][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-11.43.24:383][860]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.43.24:417][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.08.03-11.43.24:428][861]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.08.03-11.43.24:428][861]LogEngine: Changing dynamic resolution state.
+[2019.08.03-11.43.51:964][832]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprints/Target.Target
+[2019.08.03-11.47.57:918][329]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.08.03-11.52.03:773][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Target" FILE="../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset" SILENT=true
+[2019.08.03-11.52.03:806][307]LogSavePackage: Moving '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Target40897DF1401B4AD8981778919172FA21.tmp' to '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset'
+[2019.08.03-11.52.05:474][504]BlueprintLog: New page: Compile Target
+[2019.08.03-11.52.05:605][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.08.03-11.52.06:655][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Target" FILE="../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset" SILENT=true
+[2019.08.03-11.52.06:681][624]LogSavePackage: Moving '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/TargetB449AB0F4B60E224007EE79A36FD57FE.tmp' to '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset'
+[2019.08.03-11.52.09:752][978]LogTemp: Repeating last play command: VR Preview
+[2019.08.03-11.52.09:764][978]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.52.09:765][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-11.52.09:765][978]LogHMD: Initializing OVRPlugin session
+[2019.08.03-11.52.09:794][978]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.08.03-11.52.09:794][978]PIE: New page: PIE session: TennisPractice (Aug 3, 2019, 3:52:09 AM)
+[2019.08.03-11.52.09:794][978]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_TennisPractice
+[2019.08.03-11.52.09:797][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002420s)
+[2019.08.03-11.52.09:797][978]LogAIModule: Creating AISystem for world TennisPractice
+[2019.08.03-11.52.09:797][978]LogPlayLevel: PIE: World Init took: (0.000555s)
+[2019.08.03-11.52.09:797][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/TennisPractice.TennisPractice to /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice (0.003084s)
+[2019.08.03-11.52.09:824][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.08.03-11.52.09:838][978]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.03-11.52.09:851][978]LogInit: FAudioDevice initialized.
+[2019.08.03-11.52.09:860][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-11.52.09:916][978]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.03-11.52.09:916][978]LogLoad: Game class is 'GameModeBase'
+[2019.08.03-11.52.09:917][978]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice up for play (max tick rate 0) at 2019.08.03-07.52.09
+[2019.08.03-11.52.09:917][978]LogWorld: Bringing up level for play took: 0.000792
+[2019.08.03-11.52.09:935][978]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_TennisPractice 1.151
+[2019.08.03-11.52.09:936][978]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.52.09:936][978]LogEngine: Changing dynamic resolution state.
+[2019.08.03-11.52.09:939][978]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.08.03-11.52.09:971][980]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.08.03-11.52.42:294][632]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.52.42:349][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-11.52.42:385][632]LogSlate: Window 'VRProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.03-11.52.42:419][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-11.52.42:419][632]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.52.42:453][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.08.03-11.52.42:474][633]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.08.03-11.52.42:474][633]LogEngine: Changing dynamic resolution state.
+[2019.08.03-11.54.03:723][600]LogSlate: Took 0.019988 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.08.03-11.55.19:602][653]BlueprintLog: New page: Compile Target
+[2019.08.03-11.55.19:730][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.08.03-11.55.20:739][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Target" FILE="../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset" SILENT=true
+[2019.08.03-11.55.20:770][768]LogSavePackage: Moving '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Target7E9BBD9F493A23D142A78DAF0EB59BC3.tmp' to '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset'
+[2019.08.03-11.55.22:314][951]LogTemp: Repeating last play command: VR Preview
+[2019.08.03-11.55.22:328][951]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.55.22:328][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-11.55.22:328][951]LogHMD: Initializing OVRPlugin session
+[2019.08.03-11.55.22:354][951]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.08.03-11.55.22:355][951]PIE: New page: PIE session: TennisPractice (Aug 3, 2019, 3:55:22 AM)
+[2019.08.03-11.55.22:355][951]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_TennisPractice
+[2019.08.03-11.55.22:357][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002380s)
+[2019.08.03-11.55.22:358][951]LogAIModule: Creating AISystem for world TennisPractice
+[2019.08.03-11.55.22:358][951]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2019.08.03-11.55.22:358][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/TennisPractice.TennisPractice to /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice (0.003185s)
+[2019.08.03-11.55.22:384][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.08.03-11.55.22:398][951]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.03-11.55.22:407][951]LogInit: FAudioDevice initialized.
+[2019.08.03-11.55.22:420][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-11.55.22:477][951]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.03-11.55.22:477][951]LogLoad: Game class is 'GameModeBase'
+[2019.08.03-11.55.22:478][951]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice up for play (max tick rate 0) at 2019.08.03-07.55.22
+[2019.08.03-11.55.22:478][951]LogWorld: Bringing up level for play took: 0.000899
+[2019.08.03-11.55.22:496][951]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_TennisPractice -0.288
+[2019.08.03-11.55.22:496][951]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.55.22:497][951]LogEngine: Changing dynamic resolution state.
+[2019.08.03-11.55.22:500][951]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.08.03-11.55.22:532][953]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.08.03-11.56.01:673][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.56.01:730][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-11.56.01:792][422]LogSlate: Window 'VRProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.03-11.56.01:827][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-11.56.01:827][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.56.01:879][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.08.03-11.56.01:905][423]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.08.03-11.56.01:905][423]LogEngine: Changing dynamic resolution state.
+[2019.08.03-11.56.05:960][834]LogTemp: Repeating last play command: VR Preview
+[2019.08.03-11.56.05:975][834]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.56.05:975][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-11.56.05:975][834]LogHMD: Initializing OVRPlugin session
+[2019.08.03-11.56.06:007][834]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.08.03-11.56.06:008][834]PIE: New page: PIE session: TennisPractice (Aug 3, 2019, 3:56:06 AM)
+[2019.08.03-11.56.06:008][834]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_TennisPractice
+[2019.08.03-11.56.06:012][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003663s)
+[2019.08.03-11.56.06:012][834]LogAIModule: Creating AISystem for world TennisPractice
+[2019.08.03-11.56.06:013][834]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2019.08.03-11.56.06:013][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/TennisPractice.TennisPractice to /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice (0.004690s)
+[2019.08.03-11.56.06:046][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.08.03-11.56.06:066][834]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.03-11.56.06:077][834]LogInit: FAudioDevice initialized.
+[2019.08.03-11.56.06:091][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-11.56.06:148][834]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.03-11.56.06:149][834]LogLoad: Game class is 'GameModeBase'
+[2019.08.03-11.56.06:150][834]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice up for play (max tick rate 0) at 2019.08.03-07.56.06
+[2019.08.03-11.56.06:150][834]LogWorld: Bringing up level for play took: 0.001174
+[2019.08.03-11.56.06:169][834]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_TennisPractice -0.616
+[2019.08.03-11.56.06:169][834]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.56.06:170][834]LogEngine: Changing dynamic resolution state.
+[2019.08.03-11.56.06:174][834]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.08.03-11.56.06:231][836]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.08.03-11.56.29:314][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.56.29:370][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-11.56.29:412][341]LogSlate: Window 'VRProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.03-11.56.29:446][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-11.56.29:447][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.56.29:479][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.08.03-11.56.29:502][342]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.08.03-11.56.29:502][342]LogEngine: Changing dynamic resolution state.
+[2019.08.03-11.57.18:089][  1]LogEditorTransaction: Undo Delete current selection
+[2019.08.03-11.57.20:615][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Target" FILE="../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset" SILENT=true
+[2019.08.03-11.57.20:646][292]LogSavePackage: Moving '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Target81641FDC4755C59EA28AF59FD47E6969.tmp' to '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset'
+[2019.08.03-11.57.23:841][673]BlueprintLog: New page: Compile Target
+[2019.08.03-11.57.23:965][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.08.03-11.57.25:256][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Target" FILE="../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset" SILENT=true
+[2019.08.03-11.57.25:283][822]LogSavePackage: Moving '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/TargetCFF74FDD43C2B6AD8E84E9A4842DC48C.tmp' to '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset'
+[2019.08.03-11.59.23:891][733]BlueprintLog: New page: Compile Target
+[2019.08.03-11.59.24:021][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.08.03-11.59.24:691][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Target" FILE="../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset" SILENT=true
+[2019.08.03-11.59.24:718][807]LogSavePackage: Moving '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/TargetFA0EF85D481AF20244EE66A5A0D8A410.tmp' to '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset'
+[2019.08.03-11.59.27:515][139]LogSlate: Window 'Target' being destroyed
+[2019.08.03-11.59.27:519][139]LogSlate: Window 'Target' being destroyed
+[2019.08.03-11.59.28:497][249]LogTemp: Repeating last play command: VR Preview
+[2019.08.03-11.59.28:513][249]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.59.28:513][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-11.59.28:513][249]LogHMD: Initializing OVRPlugin session
+[2019.08.03-11.59.28:538][249]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.08.03-11.59.28:539][249]PIE: New page: PIE session: TennisPractice (Aug 3, 2019, 3:59:28 AM)
+[2019.08.03-11.59.28:539][249]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_TennisPractice
+[2019.08.03-11.59.28:541][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002482s)
+[2019.08.03-11.59.28:542][249]LogAIModule: Creating AISystem for world TennisPractice
+[2019.08.03-11.59.28:542][249]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2019.08.03-11.59.28:542][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/TennisPractice.TennisPractice to /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice (0.003212s)
+[2019.08.03-11.59.28:569][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.08.03-11.59.28:582][249]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.03-11.59.28:591][249]LogInit: FAudioDevice initialized.
+[2019.08.03-11.59.28:598][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-11.59.28:655][249]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.03-11.59.28:655][249]LogLoad: Game class is 'GameModeBase'
+[2019.08.03-11.59.28:657][249]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice up for play (max tick rate 0) at 2019.08.03-07.59.28
+[2019.08.03-11.59.28:657][249]LogWorld: Bringing up level for play took: 0.000800
+[2019.08.03-11.59.28:672][249]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_TennisPractice -0.112
+[2019.08.03-11.59.28:672][249]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.59.28:672][249]LogEngine: Changing dynamic resolution state.
+[2019.08.03-11.59.28:676][249]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.08.03-11.59.28:703][251]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.08.03-11.59.44:296][830]LogBlueprintUserMessages: [Target1_GEN_VARIABLE_Target_C_CAT_1] Explosion made
+[2019.08.03-11.59.51:180][445]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.59.51:238][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-11.59.51:263][445]LogSlate: Window 'VRProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.03-11.59.51:292][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-11.59.51:293][445]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-11.59.51:328][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.08.03-11.59.51:343][446]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.08.03-11.59.51:343][446]LogEngine: Changing dynamic resolution state.
+[2019.08.03-12.00.56:978][109]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprints/Target.Target
+[2019.08.03-12.01.28:373][814]BlueprintLog: New page: Compile Target
+[2019.08.03-12.01.28:500][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.08.03-12.01.29:170][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Target" FILE="../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset" SILENT=true
+[2019.08.03-12.01.29:197][888]LogSavePackage: Moving '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Target813A23BF419801183303C2A732D26367.tmp' to '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset'
+[2019.08.03-12.01.37:848][923]LogTemp: Repeating last play command: VR Preview
+[2019.08.03-12.01.37:860][923]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-12.01.37:861][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-12.01.37:861][923]LogHMD: Initializing OVRPlugin session
+[2019.08.03-12.01.37:887][923]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.08.03-12.01.37:888][923]PIE: New page: PIE session: TennisPractice (Aug 3, 2019, 4:01:37 AM)
+[2019.08.03-12.01.37:888][923]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_TennisPractice
+[2019.08.03-12.01.37:891][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002682s)
+[2019.08.03-12.01.37:891][923]LogAIModule: Creating AISystem for world TennisPractice
+[2019.08.03-12.01.37:892][923]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2019.08.03-12.01.37:892][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/TennisPractice.TennisPractice to /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice (0.003637s)
+[2019.08.03-12.01.37:919][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.08.03-12.01.37:936][923]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.03-12.01.37:945][923]LogInit: FAudioDevice initialized.
+[2019.08.03-12.01.37:962][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-12.01.38:020][923]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.03-12.01.38:020][923]LogLoad: Game class is 'GameModeBase'
+[2019.08.03-12.01.38:021][923]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice up for play (max tick rate 0) at 2019.08.03-08.01.38
+[2019.08.03-12.01.38:022][923]LogWorld: Bringing up level for play took: 0.001443
+[2019.08.03-12.01.38:040][923]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_TennisPractice -0.744
+[2019.08.03-12.01.38:041][923]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-12.01.38:042][923]LogEngine: Changing dynamic resolution state.
+[2019.08.03-12.01.38:046][923]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.08.03-12.01.38:075][925]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.08.03-12.02.04:692][485]LogBlueprintUserMessages: [Target1_GEN_VARIABLE_Target_C_CAT_1] Explosion made
+[2019.08.03-12.02.04:692][485]LogBlueprintUserMessages: [Target1_GEN_VARIABLE_Target_C_CAT_1] End Play Explosion
+[2019.08.03-12.02.04:692][485]LogBlueprintUserMessages: [Target1_GEN_VARIABLE_Target_C_CAT_1] Succesfully cast
+[2019.08.03-12.02.04:693][485]LogScript: Warning: Attempted to access Plane via property Plane, but Plane is pending kill
+	Target_C /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice:PersistentLevel.DESTROYED_Target_C_CHILDACTOR_8
+	Function /Game/Assets/Blueprints/Target.Target_C:ExecuteUbergraph_Target:035F
+[2019.08.03-12.02.04:694][485]PIE: Error: Blueprint Runtime Error: "Attempted to access Plane via property Plane, but Plane is pending kill". Blueprint:  Target Function:  Execute Ubergraph Target Graph:  EventGraph Node:  DestroyComponent
+[2019.08.03-12.02.12:200][159]LogBlueprintUserMessages: [Target1_GEN_VARIABLE_Target_C_CAT_4] Explosion made
+[2019.08.03-12.02.12:201][159]LogBlueprintUserMessages: [Target1_GEN_VARIABLE_Target_C_CAT_4] End Play Explosion
+[2019.08.03-12.02.12:201][159]LogBlueprintUserMessages: [Target1_GEN_VARIABLE_Target_C_CAT_4] Succesfully cast
+[2019.08.03-12.02.12:201][159]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Waves' of length 2 in '/Game/Assets/Blueprints/GameManager.GameManager_C'!
+[2019.08.03-12.02.12:201][159]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.08.03-12.02.12:201][159]LogScript: Warning: Attempted to access Plane via property Plane, but Plane is pending kill
+	Target_C /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice:PersistentLevel.DESTROYED_Target_C_CHILDACTOR_11
+	Function /Game/Assets/Blueprints/Target.Target_C:ExecuteUbergraph_Target:035F
+[2019.08.03-12.02.12:202][159]PIE: Error: Blueprint Runtime Error: "Attempted to access Plane via property Plane, but Plane is pending kill". Blueprint:  Target Function:  Execute Ubergraph Target Graph:  EventGraph Node:  DestroyComponent
+[2019.08.03-12.02.23:953][216]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-12.02.24:011][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-12.02.24:036][216]LogSlate: Window 'VRProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.03-12.02.24:065][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-12.02.24:066][216]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-12.02.24:102][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.08.03-12.02.24:135][217]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.08.03-12.02.24:135][217]LogEngine: Changing dynamic resolution state.
+[2019.08.03-12.02.57:363][ 87]LogSlate: Window 'Target' being destroyed
+[2019.08.03-12.02.57:366][ 87]LogSlate: Window 'Target' being destroyed
+[2019.08.03-12.02.58:987][274]LogSlate: Window 'Message Log' being destroyed
+[2019.08.03-12.02.58:991][274]LogSlate: Window 'Message Log' being destroyed
+[2019.08.03-13.00.33:442][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-13.01.07:955][633]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprints/Target.Target
+[2019.08.03-13.01.59:113][682]BlueprintLog: New page: Compile Target
+[2019.08.03-13.01.59:238][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.08.03-13.02.00:873][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Target" FILE="../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset" SILENT=true
+[2019.08.03-13.02.00:904][869]LogSavePackage: Moving '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Target404BA209456525894DA4E7BFFF182000.tmp' to '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset'
+[2019.08.03-13.02.15:913][648]LogSlate: Window 'Target' being destroyed
+[2019.08.03-13.02.17:933][882]LogSlate: Window 'Message Log' being destroyed
+[2019.08.03-13.02.19:860][113]LogSlate: Window 'Blueprint Debugger' being destroyed
+[2019.08.03-13.02.24:969][663]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprints/GameManager.GameManager
+[2019.08.03-13.02.32:832][570]LogSlate: Window 'GameManager' being destroyed
+[2019.08.03-13.02.36:911][ 28]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprints/Waves/Wave_BluePrint.Wave_BluePrint
+[2019.08.03-13.03.47:774][412]BlueprintLog: New page: Compile Wave_BluePrint
+[2019.08.03-13.03.47:909][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2019.08.03-13.03.50:819][757]LogBlueprintUserMessages: [Wave_BluePrint_C_1] Num Targets:0
+[2019.08.03-13.04.04:464][ 96]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.04.04:465][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-13.04.04:465][ 96]PIE: New page: SIE session: TennisPractice (Aug 3, 2019, 5:04:04 AM)
+[2019.08.03-13.04.04:465][ 96]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_TennisPractice
+[2019.08.03-13.04.04:467][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002205s)
+[2019.08.03-13.04.04:468][ 96]LogAIModule: Creating AISystem for world TennisPractice
+[2019.08.03-13.04.04:468][ 96]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2019.08.03-13.04.04:468][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/TennisPractice.TennisPractice to /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice (0.003108s)
+[2019.08.03-13.04.04:497][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.08.03-13.04.04:509][ 96]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.03-13.04.04:518][ 96]LogInit: FAudioDevice initialized.
+[2019.08.03-13.04.04:553][ 96]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.03-13.04.04:553][ 96]LogLoad: Game class is 'GameModeBase'
+[2019.08.03-13.04.04:554][ 96]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice up for play (max tick rate 0) at 2019.08.03-09.04.04
+[2019.08.03-13.04.04:554][ 96]LogWorld: Bringing up level for play took: 0.001238
+[2019.08.03-13.04.04:567][ 96]LogBlueprintUserMessages: [Wave1_Blueprint_C_0] Num Targets:0
+[2019.08.03-13.04.04:569][ 96]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_TennisPractice -0.215
+[2019.08.03-13.04.04:605][ 96]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.04.21:190][ 11]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.04.21:190][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-13.04.21:216][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-13.04.21:217][ 11]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.04.21:247][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-13.04.21:250][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.08.03-13.04.21:398][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.08.03-13.04.25:416][476]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprints/Target.Target
+[2019.08.03-13.05.01:127][262]BlueprintLog: New page: Compile Target
+[2019.08.03-13.05.01:259][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.08.03-13.05.02:644][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Target" FILE="../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset" SILENT=true
+[2019.08.03-13.05.02:671][407]LogSavePackage: Moving '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Target0124708D4A6709DAD5FDE5AB58CAA6FA.tmp' to '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset'
+[2019.08.03-13.05.04:227][571]LogSlate: Window 'Target' being destroyed
+[2019.08.03-13.05.04:231][571]LogSlate: Window 'Target' being destroyed
+[2019.08.03-13.05.04:295][571]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.03-13.05.11:683][383]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprints/Waves/Wave_BluePrint.Wave_BluePrint
+[2019.08.03-13.05.22:701][666]LogTemp: Repeating last play command: Simulate
+[2019.08.03-13.05.22:719][666]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.05.22:719][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-13.05.22:719][666]PIE: New page: SIE session: TennisPractice (Aug 3, 2019, 5:05:22 AM)
+[2019.08.03-13.05.22:720][666]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_TennisPractice
+[2019.08.03-13.05.22:722][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002203s)
+[2019.08.03-13.05.22:722][666]LogAIModule: Creating AISystem for world TennisPractice
+[2019.08.03-13.05.22:723][666]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2019.08.03-13.05.22:723][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/TennisPractice.TennisPractice to /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice (0.003196s)
+[2019.08.03-13.05.22:749][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.08.03-13.05.22:761][666]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.03-13.05.22:769][666]LogInit: FAudioDevice initialized.
+[2019.08.03-13.05.22:798][666]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.03-13.05.22:798][666]LogLoad: Game class is 'GameModeBase'
+[2019.08.03-13.05.22:799][666]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice up for play (max tick rate 0) at 2019.08.03-09.05.22
+[2019.08.03-13.05.22:800][666]LogWorld: Bringing up level for play took: 0.001182
+[2019.08.03-13.05.22:813][666]LogBlueprintUserMessages: [Wave1_Blueprint_C_0] Num Targets:0
+[2019.08.03-13.05.22:815][666]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_TennisPractice 0.03
+[2019.08.03-13.05.22:816][666]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.05.32:817][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-13.05.37:824][212]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.05.37:824][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-13.05.37:856][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-13.05.37:856][212]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.05.37:889][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-13.05.37:892][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.08.03-13.05.37:976][216]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.08.03-13.05.48:841][500]LogTemp: Repeating last play command: Simulate
+[2019.08.03-13.05.48:854][500]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.05.48:854][500]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.03-13.05.48:858][500]LogPlayLevel: [PlayLevel] Compiling Wave_BluePrint before play...
+[2019.08.03-13.05.48:858][500]LogPlayLevel: [PlayLevel]   Compiling Wave1_Blueprint as a dependent...
+[2019.08.03-13.05.48:858][500]LogPlayLevel: [PlayLevel]   Compiling Wave2_Blueprint as a dependent...
+[2019.08.03-13.05.48:997][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.08.03-13.05.48:997][500]LogPlayLevel: PlayLevel: Blueprint regeneration took 141 ms (3 blueprints)
+[2019.08.03-13.05.48:997][500]PIE: New page: SIE session: TennisPractice (Aug 3, 2019, 5:05:48 AM)
+[2019.08.03-13.05.48:997][500]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_TennisPractice
+[2019.08.03-13.05.49:000][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002212s)
+[2019.08.03-13.05.49:000][500]LogAIModule: Creating AISystem for world TennisPractice
+[2019.08.03-13.05.49:000][500]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2019.08.03-13.05.49:000][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/TennisPractice.TennisPractice to /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice (0.003081s)
+[2019.08.03-13.05.49:028][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.08.03-13.05.49:040][500]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.03-13.05.49:048][500]LogInit: FAudioDevice initialized.
+[2019.08.03-13.05.49:083][500]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.03-13.05.49:083][500]LogLoad: Game class is 'GameModeBase'
+[2019.08.03-13.05.49:084][500]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice up for play (max tick rate 0) at 2019.08.03-09.05.49
+[2019.08.03-13.05.49:084][500]LogWorld: Bringing up level for play took: 0.001038
+[2019.08.03-13.05.49:116][500]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_TennisPractice 0.331
+[2019.08.03-13.05.49:117][500]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.05.49:146][501]LogBlueprintUserMessages: [Wave1_Blueprint_C_0] Num Targets:0
+[2019.08.03-13.05.50:414][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.03-13.05.53:217][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.05.53:218][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-13.05.53:252][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-13.05.53:252][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.05.53:282][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-13.05.53:285][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.08.03-13.05.53:373][985]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.08.03-13.06.25:376][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.08.03-13.06.25:376][838]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Assets/Levels/TennisPractice' took 0.021
+[2019.08.03-13.06.25:377][838]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Blueprints/Waves/Wave_BluePrint] ([1] browsable assets)...
+[2019.08.03-13.06.25:377][838]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/Waves/Wave_BluePrint]
+[2019.08.03-13.06.25:400][838]LogSavePackage: Moving '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Wave_BluePrint_Auto116DB69004C715B9FCDDB8982CD49A6F2.tmp' to '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Autosaves/Game/Assets/Blueprints/Waves/Wave_BluePrint_Auto1.uasset'
+[2019.08.03-13.06.25:401][838]LogFileHelpers: Auto-saving content packages took 0.024
+[2019.08.03-13.06.49:956][913]LogTemp: Repeating last play command: Simulate
+[2019.08.03-13.06.49:969][913]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.06.49:971][913]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.08.03-13.06.49:974][913]LogPlayLevel: [PlayLevel] Compiling Wave_BluePrint before play...
+[2019.08.03-13.06.49:974][913]LogPlayLevel: [PlayLevel]   Compiling Wave1_Blueprint as a dependent...
+[2019.08.03-13.06.49:974][913]LogPlayLevel: [PlayLevel]   Compiling Wave2_Blueprint as a dependent...
+[2019.08.03-13.06.50:105][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.08.03-13.06.50:105][913]LogPlayLevel: PlayLevel: Blueprint regeneration took 134 ms (3 blueprints)
+[2019.08.03-13.06.50:106][913]PIE: New page: SIE session: TennisPractice (Aug 3, 2019, 5:06:50 AM)
+[2019.08.03-13.06.50:106][913]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_TennisPractice
+[2019.08.03-13.06.50:108][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002228s)
+[2019.08.03-13.06.50:109][913]LogAIModule: Creating AISystem for world TennisPractice
+[2019.08.03-13.06.50:109][913]LogPlayLevel: PIE: World Init took: (0.000604s)
+[2019.08.03-13.06.50:109][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/TennisPractice.TennisPractice to /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice (0.003136s)
+[2019.08.03-13.06.50:134][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.08.03-13.06.50:146][913]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.03-13.06.50:154][913]LogInit: FAudioDevice initialized.
+[2019.08.03-13.06.50:180][913]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.03-13.06.50:180][913]LogLoad: Game class is 'GameModeBase'
+[2019.08.03-13.06.50:182][913]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice up for play (max tick rate 0) at 2019.08.03-09.06.50
+[2019.08.03-13.06.50:182][913]LogWorld: Bringing up level for play took: 0.000782
+[2019.08.03-13.06.50:194][913]LogBlueprintUserMessages: [Wave1_Blueprint_C_0] Num Targets:0
+[2019.08.03-13.06.50:196][913]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_TennisPractice -0.589
+[2019.08.03-13.06.50:197][913]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.06.51:706][ 69]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.06.51:706][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-13.06.51:740][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-13.06.51:740][ 69]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.06.51:771][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-13.06.51:775][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.08.03-13.06.51:826][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.08.03-13.07.24:899][911]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Assets/Blueprints/Target.Target
+[2019.08.03-13.10.33:935][997]BlueprintLog: New page: Compile Target
+[2019.08.03-13.10.34:064][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.08.03-13.10.57:274][737]BlueprintLog: New page: Compile Target
+[2019.08.03-13.10.57:404][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.08.03-13.10.58:900][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Target" FILE="../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset" SILENT=true
+[2019.08.03-13.10.58:931][907]LogSavePackage: Moving '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Target88D397A4441D592C0D45E28E38EE3C09.tmp' to '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Target.uasset'
+[2019.08.03-13.11.00:279][ 64]LogSlate: Window 'Target' being destroyed
+[2019.08.03-13.11.00:282][ 64]LogSlate: Window 'Target' being destroyed
+[2019.08.03-13.11.00:348][ 64]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.03-13.11.01:487][193]LogTemp: Repeating last play command: Simulate
+[2019.08.03-13.11.01:502][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.11.01:503][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-13.11.01:503][193]PIE: New page: SIE session: TennisPractice (Aug 3, 2019, 5:11:01 AM)
+[2019.08.03-13.11.01:503][193]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_TennisPractice
+[2019.08.03-13.11.01:505][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002213s)
+[2019.08.03-13.11.01:506][193]LogAIModule: Creating AISystem for world TennisPractice
+[2019.08.03-13.11.01:506][193]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2019.08.03-13.11.01:506][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/TennisPractice.TennisPractice to /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice (0.003130s)
+[2019.08.03-13.11.01:532][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.08.03-13.11.01:544][193]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.03-13.11.01:552][193]LogInit: FAudioDevice initialized.
+[2019.08.03-13.11.01:578][193]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.03-13.11.01:578][193]LogLoad: Game class is 'GameModeBase'
+[2019.08.03-13.11.01:579][193]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice up for play (max tick rate 0) at 2019.08.03-09.11.01
+[2019.08.03-13.11.01:579][193]LogWorld: Bringing up level for play took: 0.000813
+[2019.08.03-13.11.01:592][193]LogBlueprintUserMessages: [Wave1_Blueprint_C_0] Num Targets:3
+[2019.08.03-13.11.01:594][193]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_TennisPractice 0.81
+[2019.08.03-13.11.01:595][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.11.06:899][800]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.11.06:900][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-13.11.06:930][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-13.11.06:930][800]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.11.06:958][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-13.11.06:961][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.08.03-13.11.07:061][804]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.08.03-13.11.10:444][208]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.11.10:444][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.03-13.11.10:444][208]LogHMD: Initializing OVRPlugin session
+[2019.08.03-13.11.10:470][208]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.08.03-13.11.10:471][208]PIE: New page: PIE session: TennisPractice (Aug 3, 2019, 5:11:10 AM)
+[2019.08.03-13.11.10:471][208]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_TennisPractice
+[2019.08.03-13.11.10:473][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002394s)
+[2019.08.03-13.11.10:474][208]LogAIModule: Creating AISystem for world TennisPractice
+[2019.08.03-13.11.10:474][208]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2019.08.03-13.11.10:474][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/TennisPractice.TennisPractice to /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice (0.003383s)
+[2019.08.03-13.11.10:503][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.08.03-13.11.10:518][208]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.03-13.11.10:530][208]LogInit: FAudioDevice initialized.
+[2019.08.03-13.11.10:540][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-13.11.10:594][208]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.08.03-13.11.10:594][208]LogLoad: Game class is 'GameModeBase'
+[2019.08.03-13.11.10:595][208]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_TennisPractice.TennisPractice up for play (max tick rate 0) at 2019.08.03-09.11.10
+[2019.08.03-13.11.10:596][208]LogWorld: Bringing up level for play took: 0.001187
+[2019.08.03-13.11.10:609][208]LogBlueprintUserMessages: [Wave1_Blueprint_C_0] Num Targets:3
+[2019.08.03-13.11.10:613][208]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_TennisPractice -0.171
+[2019.08.03-13.11.10:614][208]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.11.10:614][208]LogEngine: Changing dynamic resolution state.
+[2019.08.03-13.11.10:617][208]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.08.03-13.11.10:644][210]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.08.03-13.11.33:235][328]LogBlueprintUserMessages: [Target1_GEN_VARIABLE_Target_C_CAT_1] Explosion made
+[2019.08.03-13.11.33:235][328]LogBlueprintUserMessages: [Target1_GEN_VARIABLE_Target_C_CAT_1] End Play Explosion
+[2019.08.03-13.11.33:236][328]LogBlueprintUserMessages: [Target1_GEN_VARIABLE_Target_C_CAT_1] Succesfully cast
+[2019.08.03-13.11.36:045][579]LogBlueprintUserMessages: [Target3_GEN_VARIABLE_Target_C_CAT_2] Explosion made
+[2019.08.03-13.11.36:045][579]LogBlueprintUserMessages: [Target3_GEN_VARIABLE_Target_C_CAT_2] End Play Explosion
+[2019.08.03-13.11.36:045][579]LogBlueprintUserMessages: [Target3_GEN_VARIABLE_Target_C_CAT_2] Succesfully cast
+[2019.08.03-13.11.51:611][967]LogBlueprintUserMessages: [Target_GEN_VARIABLE_Target_C_CAT_0] Explosion made
+[2019.08.03-13.11.51:611][967]LogBlueprintUserMessages: [Target_GEN_VARIABLE_Target_C_CAT_0] End Play Explosion
+[2019.08.03-13.11.51:611][967]LogBlueprintUserMessages: [Target_GEN_VARIABLE_Target_C_CAT_0] Succesfully cast
+[2019.08.03-13.11.51:612][967]LogBlueprintUserMessages: [Wave2_Blueprint_C_0] Num Targets:5
+[2019.08.03-13.11.54:688][242]LogBlueprintUserMessages: [Target3_GEN_VARIABLE_Target_C_CAT_6] Explosion made
+[2019.08.03-13.11.54:688][242]LogBlueprintUserMessages: [Target3_GEN_VARIABLE_Target_C_CAT_6] End Play Explosion
+[2019.08.03-13.11.54:688][242]LogBlueprintUserMessages: [Target3_GEN_VARIABLE_Target_C_CAT_6] Succesfully cast
+[2019.08.03-13.11.56:432][399]LogBlueprintUserMessages: [Target1_GEN_VARIABLE_Target_C_CAT_4] Explosion made
+[2019.08.03-13.11.56:433][399]LogBlueprintUserMessages: [Target1_GEN_VARIABLE_Target_C_CAT_4] End Play Explosion
+[2019.08.03-13.11.56:433][399]LogBlueprintUserMessages: [Target1_GEN_VARIABLE_Target_C_CAT_4] Succesfully cast
+[2019.08.03-13.11.59:588][680]LogBlueprintUserMessages: [Target2_GEN_VARIABLE_Target_C_CAT_5] Explosion made
+[2019.08.03-13.11.59:588][680]LogBlueprintUserMessages: [Target2_GEN_VARIABLE_Target_C_CAT_5] End Play Explosion
+[2019.08.03-13.11.59:588][680]LogBlueprintUserMessages: [Target2_GEN_VARIABLE_Target_C_CAT_5] Succesfully cast
+[2019.08.03-13.12.08:842][512]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.12.08:898][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.03-13.12.08:920][512]LogSlate: Window 'VRProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.03-13.12.08:952][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.03-13.12.08:952][512]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice' with GeneratedClass '/Game/Assets/Levels/TennisPractice.TennisPractice_C' with ClassGeneratedBy '/Game/Assets/Levels/TennisPractice.TennisPractice:PersistentLevel.TennisPractice'
+[2019.08.03-13.12.08:986][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.08.03-13.12.09:002][513]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.08.03-13.12.09:002][513]LogEngine: Changing dynamic resolution state.
+[2019.08.03-13.12.18:191][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.08.03-13.12.18:319][574]LogSavePackage: Moving '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/TennisPracticeFC79BC90451CDECF78E86BB18DD14E1D.tmp' to '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Levels/TennisPractice.umap'
+[2019.08.03-13.12.18:360][574]LogSavePackage: Moving '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/TennisPractice_BuiltDataEEA64D784ED1419F4DEFC1B8FF3CE9F1.tmp' to '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Levels/TennisPractice_BuiltData.uasset'
+[2019.08.03-13.12.20:309][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.08.03-13.12.21:843][773]LogSlate: Window 'Save Content' being destroyed
+[2019.08.03-13.12.21:871][773]LogSavePackage: Moving '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Wave1_BlueprintA97A3F054DA368BED1D1A58EBC93FF5A.tmp' to '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Waves/Wave1_Blueprint.uasset'
+[2019.08.03-13.12.21:894][773]LogSavePackage: Moving '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Wave2_Blueprint51FA2E5644CB507D506ACF937DB67A6F.tmp' to '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Waves/Wave2_Blueprint.uasset'
+[2019.08.03-13.12.21:924][773]LogSavePackage: Moving '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Saved/Wave_BluePrint7015471046954EA95E610B867FA19353.tmp' to '../../../../../../UnrealProjects/GitRepositories/VRTennis/VRProject/Content/Assets/Blueprints/Waves/Wave_BluePrint.uasset'
+[2019.08.03-13.12.21:989][773]LogSlate: Window 'VRProject - Unreal Editor' being destroyed
+[2019.08.03-13.12.21:990][773]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.03-13.12.22:184][774]Cmd: QUIT_EDITOR
+[2019.08.03-13.12.23:083][774]LogExit: Preparing to exit.
+[2019.08.03-13.12.23:952][774]LogExit: Editor shut down
+[2019.08.03-13.12.23:952][774]LogExit: Transaction tracking system shut down
+[2019.08.03-13.12.24:124][774]LogExit: Object subsystem successfully closed.
+[2019.08.03-13.12.24:142][774]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.03-13.12.24:145][774]LogD3D11RHI: Shutdown
+[2019.08.03-13.12.24:145][774]LogD3D11RHI: CleanupD3DDevice
+[2019.08.03-13.12.24:146][774]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.03-13.12.24:146][774]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.03-13.12.24:146][774]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.03-13.12.24:146][774]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.03-13.12.24:146][774]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.03-13.12.24:146][774]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.03-13.12.24:147][774]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.03-13.12.24:154][774]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2019.08.03-13.12.24:154][774]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2019.08.03-13.12.24:154][774]LogModuleManager: Shutting down and abandoning module BlueprintGraph (644)
+[2019.08.03-13.12.24:154][774]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.08.03-13.12.24:154][774]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.08.03-13.12.24:154][774]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.08.03-13.12.24:155][774]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.08.03-13.12.24:156][774]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.08.03-13.12.24:436][774]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.08.03-13.12.24:436][774]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.08.03-13.12.24:436][774]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.08.03-13.12.24:436][774]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.08.03-13.12.24:436][774]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.08.03-13.12.24:436][774]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.08.03-13.12.24:436][774]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.08.03-13.12.24:436][774]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.08.03-13.12.24:436][774]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.08.03-13.12.24:436][774]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.08.03-13.12.24:436][774]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.08.03-13.12.24:436][774]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.08.03-13.12.24:436][774]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.08.03-13.12.24:436][774]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.08.03-13.12.24:437][774]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.08.03-13.12.24:437][774]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.08.03-13.12.24:437][774]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.08.03-13.12.24:437][774]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.08.03-13.12.24:437][774]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.08.03-13.12.24:437][774]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.08.03-13.12.24:437][774]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.08.03-13.12.24:437][774]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.08.03-13.12.24:437][774]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.08.03-13.12.24:481][774]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.08.03-13.12.24:481][774]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.08.03-13.12.24:481][774]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.08.03-13.12.24:481][774]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.08.03-13.12.24:481][774]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.08.03-13.12.24:481][774]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.08.03-13.12.24:481][774]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.08.03-13.12.24:481][774]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.08.03-13.12.24:481][774]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.08.03-13.12.24:481][774]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.08.03-13.12.24:481][774]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.08.03-13.12.24:486][774]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.08.03-13.12.24:489][774]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.08.03-13.12.24:653][774]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.08.03-13.12.24:653][774]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.08.03-13.12.24:653][774]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.08.03-13.12.24:653][774]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.08.03-13.12.24:654][774]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.08.03-13.12.24:655][774]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.08.03-13.12.24:655][774]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.08.03-13.12.24:655][774]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.08.03-13.12.24:756][774]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.08.03-13.12.24:856][774]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.08.03-13.12.24:856][774]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.08.03-13.12.24:856][774]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.08.03-13.12.24:856][774]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.08.03-13.12.24:856][774]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.08.03-13.12.24:856][774]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.03-13.12.24:856][774]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.08.03-13.12.24:856][774]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.08.03-13.12.24:856][774]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.08.03-13.12.24:856][774]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.08.03-13.12.24:856][774]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.08.03-13.12.24:856][774]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.08.03-13.12.24:856][774]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.08.03-13.12.24:856][774]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.08.03-13.12.24:857][774]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.08.03-13.12.24:857][774]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.08.03-13.12.24:857][774]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.08.03-13.12.24:857][774]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.08.03-13.12.24:857][774]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.08.03-13.12.24:858][774]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.08.03-13.12.24:858][774]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.08.03-13.12.24:858][774]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.08.03-13.12.24:859][774]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.08.03-13.12.24:860][774]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.08.03-13.12.24:860][774]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.08.03-13.12.24:860][774]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.08.03-13.12.24:860][774]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.08.03-13.12.24:860][774]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.08.03-13.12.24:861][774]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.08.03-13.12.24:861][774]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.08.03-13.12.24:861][774]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.08.03-13.12.24:861][774]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.08.03-13.12.24:861][774]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.08.03-13.12.24:861][774]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.08.03-13.12.24:861][774]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.08.03-13.12.24:861][774]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.08.03-13.12.24:861][774]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.08.03-13.12.24:861][774]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.08.03-13.12.24:861][774]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.08.03-13.12.24:908][774]LogDerivedDataCache: Shutdown
+[2019.08.03-13.12.24:908][774]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.08.03-13.12.24:908][774]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.08.03-13.12.24:908][774]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.08.03-13.12.24:908][774]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.08.03-13.12.24:908][774]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.08.03-13.12.24:908][774]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.08.03-13.12.24:908][774]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.08.03-13.12.24:908][774]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.08.03-13.12.24:908][774]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.08.03-13.12.24:908][774]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.08.03-13.12.24:909][774]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.08.03-13.12.24:909][774]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.08.03-13.12.24:909][774]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.08.03-13.12.24:909][774]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.08.03-13.12.24:909][774]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.08.03-13.12.24:909][774]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.08.03-13.12.24:909][774]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.08.03-13.12.24:909][774]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.08.03-13.12.24:910][774]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.08.03-13.12.24:910][774]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.08.03-13.12.24:910][774]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.08.03-13.12.24:910][774]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.08.03-13.12.24:910][774]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.08.03-13.12.24:912][774]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.08.03-13.12.24:912][774]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.08.03-13.12.24:913][774]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.08.03-13.12.24:913][774]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.08.03-13.12.24:924][774]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.08.03-13.12.24:924][774]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.08.03-13.12.24:924][774]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.08.03-13.12.24:924][774]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.08.03-13.12.24:924][774]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.08.03-13.12.24:924][774]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.08.03-13.12.24:925][774]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.08.03-13.12.24:925][774]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.08.03-13.12.24:925][774]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.08.03-13.12.24:925][774]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.08.03-13.12.24:925][774]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.08.03-13.12.24:925][774]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.08.03-13.12.24:926][774]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.08.03-13.12.24:926][774]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.08.03-13.12.24:926][774]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.03-13.12.24:926][774]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.08.03-13.12.24:926][774]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.08.03-13.12.24:926][774]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.08.03-13.12.24:927][774]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.08.03-13.12.24:927][774]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.08.03-13.12.24:927][774]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.08.03-13.12.24:927][774]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.08.03-13.12.24:946][774]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.08.03-13.12.24:946][774]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.08.03-13.12.24:946][774]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B326C9500-4B84-499A-C037-C29A353D24D1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=d9963011414a8234d7d257a757862d13%7Caf60cd51aa324628919b29e486e88f1f%7Ce8c74878-8ab7-473b-94e8-7f2a0de46398&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.03-13.12.24:976][774]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.08.03-13.12.24:977][774]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.08.03-13.12.24:978][774]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.08.03-13.12.24:984][774]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.08.03-13.12.24:984][774]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.08.03-13.12.24:984][774]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.08.03-13.12.24:984][774]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.08.03-13.12.24:984][774]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.08.03-13.12.24:985][774]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.08.03-13.12.24:985][774]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.08.03-13.12.24:985][774]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.08.03-13.12.24:985][774]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.08.03-13.12.24:985][774]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.08.03-13.12.24:985][774]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.08.03-13.12.24:985][774]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.08.03-13.12.24:985][774]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.08.03-13.12.24:985][774]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.08.03-13.12.24:985][774]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.08.03-13.12.24:985][774]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.08.03-13.12.24:985][774]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.08.03-13.12.24:985][774]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.08.03-13.12.24:985][774]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.08.03-13.12.24:985][774]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.08.03-13.12.24:985][774]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.08.03-13.12.24:991][774]LogExit: Exiting.
+[2019.08.03-13.12.25:018][774]Log file closed, 08/03/19 09:12:25
